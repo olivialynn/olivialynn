@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 💡 My current work centers on building **collaborative large-scale infrastructure for astronomy**--mostly in Python, always open-source.
 
-🛠️ Previously, I’ve built location- and gesture-based AR/VR software, museum-scale interactive exhibitions (including a touchscreen installation for the [Teenie Harris Archive](https://carnegieart.org/art/charles-teenie-harris-archive/)), IoT automation systems, healthcare reporting, and indie video games--using a range of tools including Unity, C++/openFrameworks, React, and more.
+🛠️ Previously, I’ve built location- and gesture-based AR/VR software, museum-scale interactive exhibitions (including a custom touchscreen installation for the [Teenie Harris Archive](https://carnegieart.org/art/charles-teenie-harris-archive/)), commercial IoT automation systems, healthcare reporting, and indie video games--using a range of tools including Unity, C++/openFrameworks, React, and more.
 
 📍 Based in **Pittsburgh, PA**; often in Seattle and New York (and always looking for an excuse to visit)!
 
