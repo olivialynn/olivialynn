@@ -29,16 +29,16 @@ Here are some ideas to get you started:
 
 - **🌠 [LightCurveLynx • lincc-frameworks/lightcurvelynx](https://github.com/lincc-frameworks/lightcurvelynx):** A fast, modular Python library for simulating and analyzing variable sources in time-domain astronomy. I contribute to core API design and functionality, supporting its use in scientific pipelines and large-scale simulations.
 
-- **🚂 [RAIL • LSSTDESC/rail](https://github.com/LSSTDESC/rail):** A modular, extensible framework for photometric redshift estimation and uncertainty quantification in large-scale surveys. I've contributed to its architecture and integration within the LSST DESC ecosystem.
+- **🚂 [RAIL • LSSTDESC/rail](https://github.com/LSSTDESC/rail):** An extensible framework for photometric redshift estimation and uncertainty quantification in large-scale surveys. I've contributed to its architecture and integration within the LSST DESC ecosystem.
 
 
 ## 🌱 Currently Learning About:
 
-- 📚 **Personal Knowledge Management Systems** and fine-tuning my new Obsidian set up. I've been working with a mix of Forte's Second Brain and Zettelkasten notes, and am always down to experiment with new systems. Hit me up with your own PKM thoughts and ideas!
+- 📚 **Personal Knowledge Management Systems** and fine-tuning my new Obsidian set up. (Not to be a purist, but--I've been into PKMs long before AI brought these things a little more mainstream!) I've been working with a mix of Forte's Second Brain and Zettelkasten notes, and am always down to experiment with new systems. Hit me up with your own PKM thoughts and ideas!
 
-- 🖥️ Reviewing **foundational systems architecture** knowledge. It's been years! Reach out if you'd like to form any level of informal book club around *Computer Systems: A Programmer's Perspective* (or just reminisce about 15-213).
+- 🖥️ Learning **TouchDesigner** for the sake of audio-reactive visuals, and maybe one day, general interactive environments. Along with this comes some review (and plenty of new learning!) of computer graphics and basic electronics (addressable LEDs integrated into organic sculpted forms, anyone? 👀).
 
-- 👨‍💻 **Sociological implications of the Internet.** At the time of writing this, I'm finally reading my copy of *Hooked*, and I'm also working on learning more about dead Internet theory. Let me know if you have any recommendatoins for materials on how people are incentivized to stay addicted to the Internet, how both algorithms and bot farms are designed to affect peoples' beliefs at a large scale, and anything related to these topics!
+- 🎛️ Finally got a nice secondhand **looper pedal** and a couple othings to complete a DAWless music station. That said, I'm looking into syncing it with **hydra** and **other livecoding tools** for backing percussion and more.
 
 
 ## 📫 Let's Connect
