@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 📚 **Personal Knowledge Management Systems** and fine-tuning my new Obsidian set up. (Not to be a purist, but--I've been into PKMs long before AI brought these things a little more mainstream!) I've been working with a mix of Forte's Second Brain and Zettelkasten notes, and am always down to experiment with new systems. Hit me up with your own PKM thoughts and ideas!
 
-- 🖥️ Learning **TouchDesigner** for the sake of audio-reactive visuals, and maybe one day, general interactive environments. Along with this comes some review (and plenty of new learning!) of computer graphics and basic electronics (addressable LEDs integrated into organic sculpted forms, anyone? 👀).
+- 🖥️ Learning **TouchDesigner** for the sake of audio-reactive visuals, and maybe one day, general interactive environments. A good excuse to spend some time thinking about computer graphics.
 
 - 🎛️ Finally got a nice secondhand **looper pedal** and a couple othings to complete a DAWless music station. That said, I'm looking into syncing it with **hydra** and **other livecoding tools** for backing percussion and more.
 
